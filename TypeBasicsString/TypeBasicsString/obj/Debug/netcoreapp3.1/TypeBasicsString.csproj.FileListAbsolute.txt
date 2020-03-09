@@ -1,0 +1,11 @@
+C:\Users\chris\Documents\GitHub\NutShell\TypeBasicsString\TypeBasicsString\bin\Debug\netcoreapp3.1\TypeBasicsString.exe
+C:\Users\chris\Documents\GitHub\NutShell\TypeBasicsString\TypeBasicsString\bin\Debug\netcoreapp3.1\TypeBasicsString.deps.json
+C:\Users\chris\Documents\GitHub\NutShell\TypeBasicsString\TypeBasicsString\bin\Debug\netcoreapp3.1\TypeBasicsString.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\NutShell\TypeBasicsString\TypeBasicsString\bin\Debug\netcoreapp3.1\TypeBasicsString.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\NutShell\TypeBasicsString\TypeBasicsString\bin\Debug\netcoreapp3.1\TypeBasicsString.dll
+C:\Users\chris\Documents\GitHub\NutShell\TypeBasicsString\TypeBasicsString\bin\Debug\netcoreapp3.1\TypeBasicsString.pdb
+C:\Users\chris\Documents\GitHub\NutShell\TypeBasicsString\TypeBasicsString\obj\Debug\netcoreapp3.1\TypeBasicsString.csprojAssemblyReference.cache
+C:\Users\chris\Documents\GitHub\NutShell\TypeBasicsString\TypeBasicsString\obj\Debug\netcoreapp3.1\TypeBasicsString.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\TypeBasicsString\TypeBasicsString\obj\Debug\netcoreapp3.1\TypeBasicsString.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\NutShell\TypeBasicsString\TypeBasicsString\obj\Debug\netcoreapp3.1\TypeBasicsString.dll
+C:\Users\chris\Documents\GitHub\NutShell\TypeBasicsString\TypeBasicsString\obj\Debug\netcoreapp3.1\TypeBasicsString.pdb

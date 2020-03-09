@@ -1,0 +1,11 @@
+C:\Users\chris\Documents\GitHub\NutShell\PandasExample\PandasExample\bin\Debug\netcoreapp3.1\PandasExample.exe
+C:\Users\chris\Documents\GitHub\NutShell\PandasExample\PandasExample\bin\Debug\netcoreapp3.1\PandasExample.deps.json
+C:\Users\chris\Documents\GitHub\NutShell\PandasExample\PandasExample\bin\Debug\netcoreapp3.1\PandasExample.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\NutShell\PandasExample\PandasExample\bin\Debug\netcoreapp3.1\PandasExample.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\NutShell\PandasExample\PandasExample\bin\Debug\netcoreapp3.1\PandasExample.dll
+C:\Users\chris\Documents\GitHub\NutShell\PandasExample\PandasExample\bin\Debug\netcoreapp3.1\PandasExample.pdb
+C:\Users\chris\Documents\GitHub\NutShell\PandasExample\PandasExample\obj\Debug\netcoreapp3.1\PandasExample.csprojAssemblyReference.cache
+C:\Users\chris\Documents\GitHub\NutShell\PandasExample\PandasExample\obj\Debug\netcoreapp3.1\PandasExample.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\PandasExample\PandasExample\obj\Debug\netcoreapp3.1\PandasExample.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\NutShell\PandasExample\PandasExample\obj\Debug\netcoreapp3.1\PandasExample.dll
+C:\Users\chris\Documents\GitHub\NutShell\PandasExample\PandasExample\obj\Debug\netcoreapp3.1\PandasExample.pdb
