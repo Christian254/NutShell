@@ -1,0 +1,11 @@
+C:\Users\Christian\Documents\GitHub\NutShell\ValueTypes\ValueTypes\bin\Debug\netcoreapp3.1\ValueTypes.exe
+C:\Users\Christian\Documents\GitHub\NutShell\ValueTypes\ValueTypes\bin\Debug\netcoreapp3.1\ValueTypes.deps.json
+C:\Users\Christian\Documents\GitHub\NutShell\ValueTypes\ValueTypes\bin\Debug\netcoreapp3.1\ValueTypes.runtimeconfig.json
+C:\Users\Christian\Documents\GitHub\NutShell\ValueTypes\ValueTypes\bin\Debug\netcoreapp3.1\ValueTypes.runtimeconfig.dev.json
+C:\Users\Christian\Documents\GitHub\NutShell\ValueTypes\ValueTypes\bin\Debug\netcoreapp3.1\ValueTypes.dll
+C:\Users\Christian\Documents\GitHub\NutShell\ValueTypes\ValueTypes\bin\Debug\netcoreapp3.1\ValueTypes.pdb
+C:\Users\Christian\Documents\GitHub\NutShell\ValueTypes\ValueTypes\obj\Debug\netcoreapp3.1\ValueTypes.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\NutShell\ValueTypes\ValueTypes\obj\Debug\netcoreapp3.1\ValueTypes.AssemblyInfoInputs.cache
+C:\Users\Christian\Documents\GitHub\NutShell\ValueTypes\ValueTypes\obj\Debug\netcoreapp3.1\ValueTypes.AssemblyInfo.cs
+C:\Users\Christian\Documents\GitHub\NutShell\ValueTypes\ValueTypes\obj\Debug\netcoreapp3.1\ValueTypes.dll
+C:\Users\Christian\Documents\GitHub\NutShell\ValueTypes\ValueTypes\obj\Debug\netcoreapp3.1\ValueTypes.pdb
