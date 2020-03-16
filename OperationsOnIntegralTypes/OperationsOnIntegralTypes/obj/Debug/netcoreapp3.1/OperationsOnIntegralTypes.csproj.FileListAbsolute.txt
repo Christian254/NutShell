@@ -1,0 +1,11 @@
+C:\Users\Christian\Documents\GitHub\NutShell\OperationsOnIntegralTypes\OperationsOnIntegralTypes\bin\Debug\netcoreapp3.1\OperationsOnIntegralTypes.exe
+C:\Users\Christian\Documents\GitHub\NutShell\OperationsOnIntegralTypes\OperationsOnIntegralTypes\bin\Debug\netcoreapp3.1\OperationsOnIntegralTypes.deps.json
+C:\Users\Christian\Documents\GitHub\NutShell\OperationsOnIntegralTypes\OperationsOnIntegralTypes\bin\Debug\netcoreapp3.1\OperationsOnIntegralTypes.runtimeconfig.json
+C:\Users\Christian\Documents\GitHub\NutShell\OperationsOnIntegralTypes\OperationsOnIntegralTypes\bin\Debug\netcoreapp3.1\OperationsOnIntegralTypes.runtimeconfig.dev.json
+C:\Users\Christian\Documents\GitHub\NutShell\OperationsOnIntegralTypes\OperationsOnIntegralTypes\bin\Debug\netcoreapp3.1\OperationsOnIntegralTypes.dll
+C:\Users\Christian\Documents\GitHub\NutShell\OperationsOnIntegralTypes\OperationsOnIntegralTypes\bin\Debug\netcoreapp3.1\OperationsOnIntegralTypes.pdb
+C:\Users\Christian\Documents\GitHub\NutShell\OperationsOnIntegralTypes\OperationsOnIntegralTypes\obj\Debug\netcoreapp3.1\OperationsOnIntegralTypes.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\NutShell\OperationsOnIntegralTypes\OperationsOnIntegralTypes\obj\Debug\netcoreapp3.1\OperationsOnIntegralTypes.AssemblyInfoInputs.cache
+C:\Users\Christian\Documents\GitHub\NutShell\OperationsOnIntegralTypes\OperationsOnIntegralTypes\obj\Debug\netcoreapp3.1\OperationsOnIntegralTypes.AssemblyInfo.cs
+C:\Users\Christian\Documents\GitHub\NutShell\OperationsOnIntegralTypes\OperationsOnIntegralTypes\obj\Debug\netcoreapp3.1\OperationsOnIntegralTypes.dll
+C:\Users\Christian\Documents\GitHub\NutShell\OperationsOnIntegralTypes\OperationsOnIntegralTypes\obj\Debug\netcoreapp3.1\OperationsOnIntegralTypes.pdb

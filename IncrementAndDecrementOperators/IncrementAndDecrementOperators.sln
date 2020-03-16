@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncrementAndDecrementOperators", "IncrementAndDecrementOperators\IncrementAndDecrementOperators.csproj", "{9843D852-1AAD-4462-964C-49AA0DB07986}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9843D852-1AAD-4462-964C-49AA0DB07986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9843D852-1AAD-4462-964C-49AA0DB07986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9843D852-1AAD-4462-964C-49AA0DB07986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9843D852-1AAD-4462-964C-49AA0DB07986}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E7F6699-31C7-43D9-BA23-D2D361ED308C}
+	EndGlobalSection
+EndGlobal

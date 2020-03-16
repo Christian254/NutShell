@@ -7,7 +7,7 @@ namespace StorageOverHead
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            decimal d = -1.235848787M;
+            decimal d = -1.23M;
         }
     }
 }

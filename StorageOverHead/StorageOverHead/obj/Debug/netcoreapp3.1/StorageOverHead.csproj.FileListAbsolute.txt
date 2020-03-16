@@ -1,0 +1,11 @@
+C:\Users\Christian\Documents\GitHub\NutShell\StorageOverHead\StorageOverHead\bin\Debug\netcoreapp3.1\StorageOverHead.exe
+C:\Users\Christian\Documents\GitHub\NutShell\StorageOverHead\StorageOverHead\bin\Debug\netcoreapp3.1\StorageOverHead.deps.json
+C:\Users\Christian\Documents\GitHub\NutShell\StorageOverHead\StorageOverHead\bin\Debug\netcoreapp3.1\StorageOverHead.runtimeconfig.json
+C:\Users\Christian\Documents\GitHub\NutShell\StorageOverHead\StorageOverHead\bin\Debug\netcoreapp3.1\StorageOverHead.runtimeconfig.dev.json
+C:\Users\Christian\Documents\GitHub\NutShell\StorageOverHead\StorageOverHead\bin\Debug\netcoreapp3.1\StorageOverHead.dll
+C:\Users\Christian\Documents\GitHub\NutShell\StorageOverHead\StorageOverHead\bin\Debug\netcoreapp3.1\StorageOverHead.pdb
+C:\Users\Christian\Documents\GitHub\NutShell\StorageOverHead\StorageOverHead\obj\Debug\netcoreapp3.1\StorageOverHead.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\NutShell\StorageOverHead\StorageOverHead\obj\Debug\netcoreapp3.1\StorageOverHead.AssemblyInfoInputs.cache
+C:\Users\Christian\Documents\GitHub\NutShell\StorageOverHead\StorageOverHead\obj\Debug\netcoreapp3.1\StorageOverHead.AssemblyInfo.cs
+C:\Users\Christian\Documents\GitHub\NutShell\StorageOverHead\StorageOverHead\obj\Debug\netcoreapp3.1\StorageOverHead.dll
+C:\Users\Christian\Documents\GitHub\NutShell\StorageOverHead\StorageOverHead\obj\Debug\netcoreapp3.1\StorageOverHead.pdb

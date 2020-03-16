@@ -1,0 +1,10 @@
+C:\Users\Christian\source\repos\ConvertingFloatAndIntegerTypes\ConvertingFloatAndIntegerTypes\bin\Debug\netcoreapp3.1\ConvertingFloatAndIntegerTypes.exe
+C:\Users\Christian\source\repos\ConvertingFloatAndIntegerTypes\ConvertingFloatAndIntegerTypes\bin\Debug\netcoreapp3.1\ConvertingFloatAndIntegerTypes.deps.json
+C:\Users\Christian\source\repos\ConvertingFloatAndIntegerTypes\ConvertingFloatAndIntegerTypes\bin\Debug\netcoreapp3.1\ConvertingFloatAndIntegerTypes.runtimeconfig.json
+C:\Users\Christian\source\repos\ConvertingFloatAndIntegerTypes\ConvertingFloatAndIntegerTypes\bin\Debug\netcoreapp3.1\ConvertingFloatAndIntegerTypes.runtimeconfig.dev.json
+C:\Users\Christian\source\repos\ConvertingFloatAndIntegerTypes\ConvertingFloatAndIntegerTypes\bin\Debug\netcoreapp3.1\ConvertingFloatAndIntegerTypes.dll
+C:\Users\Christian\source\repos\ConvertingFloatAndIntegerTypes\ConvertingFloatAndIntegerTypes\bin\Debug\netcoreapp3.1\ConvertingFloatAndIntegerTypes.pdb
+C:\Users\Christian\source\repos\ConvertingFloatAndIntegerTypes\ConvertingFloatAndIntegerTypes\obj\Debug\netcoreapp3.1\ConvertingFloatAndIntegerTypes.AssemblyInfoInputs.cache
+C:\Users\Christian\source\repos\ConvertingFloatAndIntegerTypes\ConvertingFloatAndIntegerTypes\obj\Debug\netcoreapp3.1\ConvertingFloatAndIntegerTypes.AssemblyInfo.cs
+C:\Users\Christian\source\repos\ConvertingFloatAndIntegerTypes\ConvertingFloatAndIntegerTypes\obj\Debug\netcoreapp3.1\ConvertingFloatAndIntegerTypes.dll
+C:\Users\Christian\source\repos\ConvertingFloatAndIntegerTypes\ConvertingFloatAndIntegerTypes\obj\Debug\netcoreapp3.1\ConvertingFloatAndIntegerTypes.pdb
