@@ -1,0 +1,10 @@
+C:\Users\Christian\Documents\GitHub\NutShell\BooleanTypeAndOperators\BooleanTypeAndOperators\bin\Debug\netcoreapp3.1\BooleanTypeAndOperators.exe
+C:\Users\Christian\Documents\GitHub\NutShell\BooleanTypeAndOperators\BooleanTypeAndOperators\bin\Debug\netcoreapp3.1\BooleanTypeAndOperators.deps.json
+C:\Users\Christian\Documents\GitHub\NutShell\BooleanTypeAndOperators\BooleanTypeAndOperators\bin\Debug\netcoreapp3.1\BooleanTypeAndOperators.runtimeconfig.json
+C:\Users\Christian\Documents\GitHub\NutShell\BooleanTypeAndOperators\BooleanTypeAndOperators\bin\Debug\netcoreapp3.1\BooleanTypeAndOperators.runtimeconfig.dev.json
+C:\Users\Christian\Documents\GitHub\NutShell\BooleanTypeAndOperators\BooleanTypeAndOperators\bin\Debug\netcoreapp3.1\BooleanTypeAndOperators.dll
+C:\Users\Christian\Documents\GitHub\NutShell\BooleanTypeAndOperators\BooleanTypeAndOperators\bin\Debug\netcoreapp3.1\BooleanTypeAndOperators.pdb
+C:\Users\Christian\Documents\GitHub\NutShell\BooleanTypeAndOperators\BooleanTypeAndOperators\obj\Debug\netcoreapp3.1\BooleanTypeAndOperators.AssemblyInfoInputs.cache
+C:\Users\Christian\Documents\GitHub\NutShell\BooleanTypeAndOperators\BooleanTypeAndOperators\obj\Debug\netcoreapp3.1\BooleanTypeAndOperators.AssemblyInfo.cs
+C:\Users\Christian\Documents\GitHub\NutShell\BooleanTypeAndOperators\BooleanTypeAndOperators\obj\Debug\netcoreapp3.1\BooleanTypeAndOperators.dll
+C:\Users\Christian\Documents\GitHub\NutShell\BooleanTypeAndOperators\BooleanTypeAndOperators\obj\Debug\netcoreapp3.1\BooleanTypeAndOperators.pdb

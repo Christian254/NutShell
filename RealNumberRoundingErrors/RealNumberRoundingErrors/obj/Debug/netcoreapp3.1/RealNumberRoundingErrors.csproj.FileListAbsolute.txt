@@ -1,0 +1,11 @@
+C:\Users\Christian\Documents\GitHub\NutShell\RealNumberRoundingErrors\RealNumberRoundingErrors\bin\Debug\netcoreapp3.1\RealNumberRoundingErrors.exe
+C:\Users\Christian\Documents\GitHub\NutShell\RealNumberRoundingErrors\RealNumberRoundingErrors\bin\Debug\netcoreapp3.1\RealNumberRoundingErrors.deps.json
+C:\Users\Christian\Documents\GitHub\NutShell\RealNumberRoundingErrors\RealNumberRoundingErrors\bin\Debug\netcoreapp3.1\RealNumberRoundingErrors.runtimeconfig.json
+C:\Users\Christian\Documents\GitHub\NutShell\RealNumberRoundingErrors\RealNumberRoundingErrors\bin\Debug\netcoreapp3.1\RealNumberRoundingErrors.runtimeconfig.dev.json
+C:\Users\Christian\Documents\GitHub\NutShell\RealNumberRoundingErrors\RealNumberRoundingErrors\bin\Debug\netcoreapp3.1\RealNumberRoundingErrors.dll
+C:\Users\Christian\Documents\GitHub\NutShell\RealNumberRoundingErrors\RealNumberRoundingErrors\bin\Debug\netcoreapp3.1\RealNumberRoundingErrors.pdb
+C:\Users\Christian\Documents\GitHub\NutShell\RealNumberRoundingErrors\RealNumberRoundingErrors\obj\Debug\netcoreapp3.1\RealNumberRoundingErrors.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\NutShell\RealNumberRoundingErrors\RealNumberRoundingErrors\obj\Debug\netcoreapp3.1\RealNumberRoundingErrors.AssemblyInfoInputs.cache
+C:\Users\Christian\Documents\GitHub\NutShell\RealNumberRoundingErrors\RealNumberRoundingErrors\obj\Debug\netcoreapp3.1\RealNumberRoundingErrors.AssemblyInfo.cs
+C:\Users\Christian\Documents\GitHub\NutShell\RealNumberRoundingErrors\RealNumberRoundingErrors\obj\Debug\netcoreapp3.1\RealNumberRoundingErrors.dll
+C:\Users\Christian\Documents\GitHub\NutShell\RealNumberRoundingErrors\RealNumberRoundingErrors\obj\Debug\netcoreapp3.1\RealNumberRoundingErrors.pdb
