@@ -1,0 +1,11 @@
+C:\Users\Christian\Documents\GitHub\NutShell\StringsType\StringsType\bin\Debug\netcoreapp3.1\StringsType.exe
+C:\Users\Christian\Documents\GitHub\NutShell\StringsType\StringsType\bin\Debug\netcoreapp3.1\StringsType.deps.json
+C:\Users\Christian\Documents\GitHub\NutShell\StringsType\StringsType\bin\Debug\netcoreapp3.1\StringsType.runtimeconfig.json
+C:\Users\Christian\Documents\GitHub\NutShell\StringsType\StringsType\bin\Debug\netcoreapp3.1\StringsType.runtimeconfig.dev.json
+C:\Users\Christian\Documents\GitHub\NutShell\StringsType\StringsType\bin\Debug\netcoreapp3.1\StringsType.dll
+C:\Users\Christian\Documents\GitHub\NutShell\StringsType\StringsType\bin\Debug\netcoreapp3.1\StringsType.pdb
+C:\Users\Christian\Documents\GitHub\NutShell\StringsType\StringsType\obj\Debug\netcoreapp3.1\StringsType.csprojAssemblyReference.cache
+C:\Users\Christian\Documents\GitHub\NutShell\StringsType\StringsType\obj\Debug\netcoreapp3.1\StringsType.AssemblyInfoInputs.cache
+C:\Users\Christian\Documents\GitHub\NutShell\StringsType\StringsType\obj\Debug\netcoreapp3.1\StringsType.AssemblyInfo.cs
+C:\Users\Christian\Documents\GitHub\NutShell\StringsType\StringsType\obj\Debug\netcoreapp3.1\StringsType.dll
+C:\Users\Christian\Documents\GitHub\NutShell\StringsType\StringsType\obj\Debug\netcoreapp3.1\StringsType.pdb

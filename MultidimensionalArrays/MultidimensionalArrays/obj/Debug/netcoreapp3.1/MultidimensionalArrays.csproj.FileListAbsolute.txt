@@ -1,0 +1,10 @@
+C:\Users\Christian\Documents\GitHub\NutShell\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\netcoreapp3.1\MultidimensionalArrays.exe
+C:\Users\Christian\Documents\GitHub\NutShell\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\netcoreapp3.1\MultidimensionalArrays.deps.json
+C:\Users\Christian\Documents\GitHub\NutShell\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\netcoreapp3.1\MultidimensionalArrays.runtimeconfig.json
+C:\Users\Christian\Documents\GitHub\NutShell\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\netcoreapp3.1\MultidimensionalArrays.runtimeconfig.dev.json
+C:\Users\Christian\Documents\GitHub\NutShell\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\netcoreapp3.1\MultidimensionalArrays.dll
+C:\Users\Christian\Documents\GitHub\NutShell\MultidimensionalArrays\MultidimensionalArrays\bin\Debug\netcoreapp3.1\MultidimensionalArrays.pdb
+C:\Users\Christian\Documents\GitHub\NutShell\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\netcoreapp3.1\MultidimensionalArrays.AssemblyInfoInputs.cache
+C:\Users\Christian\Documents\GitHub\NutShell\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\netcoreapp3.1\MultidimensionalArrays.AssemblyInfo.cs
+C:\Users\Christian\Documents\GitHub\NutShell\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\netcoreapp3.1\MultidimensionalArrays.dll
+C:\Users\Christian\Documents\GitHub\NutShell\MultidimensionalArrays\MultidimensionalArrays\obj\Debug\netcoreapp3.1\MultidimensionalArrays.pdb

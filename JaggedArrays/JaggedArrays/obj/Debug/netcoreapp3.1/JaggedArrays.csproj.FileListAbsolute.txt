@@ -1,0 +1,10 @@
+C:\Users\Christian\Documents\GitHub\NutShell\JaggedArrays\JaggedArrays\bin\Debug\netcoreapp3.1\JaggedArrays.exe
+C:\Users\Christian\Documents\GitHub\NutShell\JaggedArrays\JaggedArrays\bin\Debug\netcoreapp3.1\JaggedArrays.deps.json
+C:\Users\Christian\Documents\GitHub\NutShell\JaggedArrays\JaggedArrays\bin\Debug\netcoreapp3.1\JaggedArrays.runtimeconfig.json
+C:\Users\Christian\Documents\GitHub\NutShell\JaggedArrays\JaggedArrays\bin\Debug\netcoreapp3.1\JaggedArrays.runtimeconfig.dev.json
+C:\Users\Christian\Documents\GitHub\NutShell\JaggedArrays\JaggedArrays\bin\Debug\netcoreapp3.1\JaggedArrays.dll
+C:\Users\Christian\Documents\GitHub\NutShell\JaggedArrays\JaggedArrays\bin\Debug\netcoreapp3.1\JaggedArrays.pdb
+C:\Users\Christian\Documents\GitHub\NutShell\JaggedArrays\JaggedArrays\obj\Debug\netcoreapp3.1\JaggedArrays.AssemblyInfoInputs.cache
+C:\Users\Christian\Documents\GitHub\NutShell\JaggedArrays\JaggedArrays\obj\Debug\netcoreapp3.1\JaggedArrays.AssemblyInfo.cs
+C:\Users\Christian\Documents\GitHub\NutShell\JaggedArrays\JaggedArrays\obj\Debug\netcoreapp3.1\JaggedArrays.dll
+C:\Users\Christian\Documents\GitHub\NutShell\JaggedArrays\JaggedArrays\obj\Debug\netcoreapp3.1\JaggedArrays.pdb
