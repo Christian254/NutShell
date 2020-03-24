@@ -1,0 +1,13 @@
+C:\Users\chris\Documents\GitHub\NutShell\VariablesAndParameters\VariablesAndParameters\bin\Debug\netcoreapp3.1\VariablesAndParameters.exe
+C:\Users\chris\Documents\GitHub\NutShell\VariablesAndParameters\VariablesAndParameters\bin\Debug\netcoreapp3.1\VariablesAndParameters.deps.json
+C:\Users\chris\Documents\GitHub\NutShell\VariablesAndParameters\VariablesAndParameters\bin\Debug\netcoreapp3.1\VariablesAndParameters.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\NutShell\VariablesAndParameters\VariablesAndParameters\bin\Debug\netcoreapp3.1\VariablesAndParameters.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\NutShell\VariablesAndParameters\VariablesAndParameters\bin\Debug\netcoreapp3.1\VariablesAndParameters.dll
+C:\Users\chris\Documents\GitHub\NutShell\VariablesAndParameters\VariablesAndParameters\bin\Debug\netcoreapp3.1\VariablesAndParameters.pdb
+C:\Users\chris\Documents\GitHub\NutShell\VariablesAndParameters\VariablesAndParameters\obj\Debug\netcoreapp3.1\VariablesAndParameters.csprojAssemblyReference.cache
+C:\Users\chris\Documents\GitHub\NutShell\VariablesAndParameters\VariablesAndParameters\obj\Debug\netcoreapp3.1\VariablesAndParameters.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\VariablesAndParameters\VariablesAndParameters\obj\Debug\netcoreapp3.1\VariablesAndParameters.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\VariablesAndParameters\VariablesAndParameters\obj\Debug\netcoreapp3.1\VariablesAndParameters.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\NutShell\VariablesAndParameters\VariablesAndParameters\obj\Debug\netcoreapp3.1\VariablesAndParameters.dll
+C:\Users\chris\Documents\GitHub\NutShell\VariablesAndParameters\VariablesAndParameters\obj\Debug\netcoreapp3.1\VariablesAndParameters.pdb
+C:\Users\chris\Documents\GitHub\NutShell\VariablesAndParameters\VariablesAndParameters\obj\Debug\netcoreapp3.1\VariablesAndParameters.genruntimeconfig.cache

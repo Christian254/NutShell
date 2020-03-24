@@ -1,0 +1,13 @@
+C:\Users\chris\Documents\GitHub\NutShell\DefiniteAssignment\DefiniteAssignment\bin\Debug\netcoreapp3.1\DefiniteAssignment.exe
+C:\Users\chris\Documents\GitHub\NutShell\DefiniteAssignment\DefiniteAssignment\bin\Debug\netcoreapp3.1\DefiniteAssignment.deps.json
+C:\Users\chris\Documents\GitHub\NutShell\DefiniteAssignment\DefiniteAssignment\bin\Debug\netcoreapp3.1\DefiniteAssignment.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\NutShell\DefiniteAssignment\DefiniteAssignment\bin\Debug\netcoreapp3.1\DefiniteAssignment.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\NutShell\DefiniteAssignment\DefiniteAssignment\bin\Debug\netcoreapp3.1\DefiniteAssignment.dll
+C:\Users\chris\Documents\GitHub\NutShell\DefiniteAssignment\DefiniteAssignment\bin\Debug\netcoreapp3.1\DefiniteAssignment.pdb
+C:\Users\chris\Documents\GitHub\NutShell\DefiniteAssignment\DefiniteAssignment\obj\Debug\netcoreapp3.1\DefiniteAssignment.csprojAssemblyReference.cache
+C:\Users\chris\Documents\GitHub\NutShell\DefiniteAssignment\DefiniteAssignment\obj\Debug\netcoreapp3.1\DefiniteAssignment.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\DefiniteAssignment\DefiniteAssignment\obj\Debug\netcoreapp3.1\DefiniteAssignment.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\DefiniteAssignment\DefiniteAssignment\obj\Debug\netcoreapp3.1\DefiniteAssignment.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\NutShell\DefiniteAssignment\DefiniteAssignment\obj\Debug\netcoreapp3.1\DefiniteAssignment.dll
+C:\Users\chris\Documents\GitHub\NutShell\DefiniteAssignment\DefiniteAssignment\obj\Debug\netcoreapp3.1\DefiniteAssignment.pdb
+C:\Users\chris\Documents\GitHub\NutShell\DefiniteAssignment\DefiniteAssignment\obj\Debug\netcoreapp3.1\DefiniteAssignment.genruntimeconfig.cache

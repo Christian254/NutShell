@@ -1,0 +1,13 @@
+C:\Users\chris\Documents\GitHub\NutShell\ExpressionsAndOperators\ExpressionsAndOperators\bin\Debug\netcoreapp3.1\ExpressionsAndOperators.exe
+C:\Users\chris\Documents\GitHub\NutShell\ExpressionsAndOperators\ExpressionsAndOperators\bin\Debug\netcoreapp3.1\ExpressionsAndOperators.deps.json
+C:\Users\chris\Documents\GitHub\NutShell\ExpressionsAndOperators\ExpressionsAndOperators\bin\Debug\netcoreapp3.1\ExpressionsAndOperators.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\NutShell\ExpressionsAndOperators\ExpressionsAndOperators\bin\Debug\netcoreapp3.1\ExpressionsAndOperators.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\NutShell\ExpressionsAndOperators\ExpressionsAndOperators\bin\Debug\netcoreapp3.1\ExpressionsAndOperators.dll
+C:\Users\chris\Documents\GitHub\NutShell\ExpressionsAndOperators\ExpressionsAndOperators\bin\Debug\netcoreapp3.1\ExpressionsAndOperators.pdb
+C:\Users\chris\Documents\GitHub\NutShell\ExpressionsAndOperators\ExpressionsAndOperators\obj\Debug\netcoreapp3.1\ExpressionsAndOperators.csprojAssemblyReference.cache
+C:\Users\chris\Documents\GitHub\NutShell\ExpressionsAndOperators\ExpressionsAndOperators\obj\Debug\netcoreapp3.1\ExpressionsAndOperators.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\ExpressionsAndOperators\ExpressionsAndOperators\obj\Debug\netcoreapp3.1\ExpressionsAndOperators.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\ExpressionsAndOperators\ExpressionsAndOperators\obj\Debug\netcoreapp3.1\ExpressionsAndOperators.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\NutShell\ExpressionsAndOperators\ExpressionsAndOperators\obj\Debug\netcoreapp3.1\ExpressionsAndOperators.dll
+C:\Users\chris\Documents\GitHub\NutShell\ExpressionsAndOperators\ExpressionsAndOperators\obj\Debug\netcoreapp3.1\ExpressionsAndOperators.pdb
+C:\Users\chris\Documents\GitHub\NutShell\ExpressionsAndOperators\ExpressionsAndOperators\obj\Debug\netcoreapp3.1\ExpressionsAndOperators.genruntimeconfig.cache

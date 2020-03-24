@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Christian\\Documents\\GitHub\\NutShell\\JaggedArrays\\JaggedArrays\\JaggedArrays.csproj": {}
+    "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\JaggedArrays\\JaggedArrays\\JaggedArrays.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Christian\\Documents\\GitHub\\NutShell\\JaggedArrays\\JaggedArrays\\JaggedArrays.csproj": {
+    "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\JaggedArrays\\JaggedArrays\\JaggedArrays.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Christian\\Documents\\GitHub\\NutShell\\JaggedArrays\\JaggedArrays\\JaggedArrays.csproj",
+        "projectUniqueName": "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\JaggedArrays\\JaggedArrays\\JaggedArrays.csproj",
         "projectName": "JaggedArrays",
-        "projectPath": "C:\\Users\\Christian\\Documents\\GitHub\\NutShell\\JaggedArrays\\JaggedArrays\\JaggedArrays.csproj",
-        "packagesPath": "C:\\Users\\Christian\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Christian\\Documents\\GitHub\\NutShell\\JaggedArrays\\JaggedArrays\\obj\\",
+        "projectPath": "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\JaggedArrays\\JaggedArrays\\JaggedArrays.csproj",
+        "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\JaggedArrays\\JaggedArrays\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Christian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

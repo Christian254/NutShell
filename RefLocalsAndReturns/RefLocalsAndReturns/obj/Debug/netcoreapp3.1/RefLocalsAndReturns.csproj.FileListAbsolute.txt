@@ -1,0 +1,13 @@
+C:\Users\chris\Documents\GitHub\NutShell\RefLocalsAndReturns\RefLocalsAndReturns\bin\Debug\netcoreapp3.1\RefLocalsAndReturns.exe
+C:\Users\chris\Documents\GitHub\NutShell\RefLocalsAndReturns\RefLocalsAndReturns\bin\Debug\netcoreapp3.1\RefLocalsAndReturns.deps.json
+C:\Users\chris\Documents\GitHub\NutShell\RefLocalsAndReturns\RefLocalsAndReturns\bin\Debug\netcoreapp3.1\RefLocalsAndReturns.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\NutShell\RefLocalsAndReturns\RefLocalsAndReturns\bin\Debug\netcoreapp3.1\RefLocalsAndReturns.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\NutShell\RefLocalsAndReturns\RefLocalsAndReturns\bin\Debug\netcoreapp3.1\RefLocalsAndReturns.dll
+C:\Users\chris\Documents\GitHub\NutShell\RefLocalsAndReturns\RefLocalsAndReturns\bin\Debug\netcoreapp3.1\RefLocalsAndReturns.pdb
+C:\Users\chris\Documents\GitHub\NutShell\RefLocalsAndReturns\RefLocalsAndReturns\obj\Debug\netcoreapp3.1\RefLocalsAndReturns.csprojAssemblyReference.cache
+C:\Users\chris\Documents\GitHub\NutShell\RefLocalsAndReturns\RefLocalsAndReturns\obj\Debug\netcoreapp3.1\RefLocalsAndReturns.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\RefLocalsAndReturns\RefLocalsAndReturns\obj\Debug\netcoreapp3.1\RefLocalsAndReturns.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\RefLocalsAndReturns\RefLocalsAndReturns\obj\Debug\netcoreapp3.1\RefLocalsAndReturns.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\NutShell\RefLocalsAndReturns\RefLocalsAndReturns\obj\Debug\netcoreapp3.1\RefLocalsAndReturns.dll
+C:\Users\chris\Documents\GitHub\NutShell\RefLocalsAndReturns\RefLocalsAndReturns\obj\Debug\netcoreapp3.1\RefLocalsAndReturns.pdb
+C:\Users\chris\Documents\GitHub\NutShell\RefLocalsAndReturns\RefLocalsAndReturns\obj\Debug\netcoreapp3.1\RefLocalsAndReturns.genruntimeconfig.cache

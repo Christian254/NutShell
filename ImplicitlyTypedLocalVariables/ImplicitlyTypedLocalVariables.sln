@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImplicitlyTypedLocalVariables", "ImplicitlyTypedLocalVariables\ImplicitlyTypedLocalVariables.csproj", "{253012CF-DDE2-43B6-980B-B7205EF75FF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{253012CF-DDE2-43B6-980B-B7205EF75FF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{253012CF-DDE2-43B6-980B-B7205EF75FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{253012CF-DDE2-43B6-980B-B7205EF75FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{253012CF-DDE2-43B6-980B-B7205EF75FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9628A59-0CBB-44F3-9F58-044DBA628739}
+	EndGlobalSection
+EndGlobal
