@@ -1,0 +1,13 @@
+C:\Users\chris\Documents\GitHub\NutShell\NullOperators\NullOperators\bin\Debug\netcoreapp3.1\NullOperators.exe
+C:\Users\chris\Documents\GitHub\NutShell\NullOperators\NullOperators\bin\Debug\netcoreapp3.1\NullOperators.deps.json
+C:\Users\chris\Documents\GitHub\NutShell\NullOperators\NullOperators\bin\Debug\netcoreapp3.1\NullOperators.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\NutShell\NullOperators\NullOperators\bin\Debug\netcoreapp3.1\NullOperators.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\NutShell\NullOperators\NullOperators\bin\Debug\netcoreapp3.1\NullOperators.dll
+C:\Users\chris\Documents\GitHub\NutShell\NullOperators\NullOperators\bin\Debug\netcoreapp3.1\NullOperators.pdb
+C:\Users\chris\Documents\GitHub\NutShell\NullOperators\NullOperators\obj\Debug\netcoreapp3.1\NullOperators.csprojAssemblyReference.cache
+C:\Users\chris\Documents\GitHub\NutShell\NullOperators\NullOperators\obj\Debug\netcoreapp3.1\NullOperators.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\NullOperators\NullOperators\obj\Debug\netcoreapp3.1\NullOperators.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\NullOperators\NullOperators\obj\Debug\netcoreapp3.1\NullOperators.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\NutShell\NullOperators\NullOperators\obj\Debug\netcoreapp3.1\NullOperators.dll
+C:\Users\chris\Documents\GitHub\NutShell\NullOperators\NullOperators\obj\Debug\netcoreapp3.1\NullOperators.pdb
+C:\Users\chris\Documents\GitHub\NutShell\NullOperators\NullOperators\obj\Debug\netcoreapp3.1\NullOperators.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\chris\Documents\GitHub\NutShell\Statements\Statements\obj\Debug\netcoreapp3.1\Statements.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\Statements\Statements\obj\Debug\netcoreapp3.1\Statements.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\Statements\Statements\obj\Debug\netcoreapp3.1\Statements.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\NutShell\Statements\Statements\bin\Debug\netcoreapp3.1\Statements.exe
+C:\Users\chris\Documents\GitHub\NutShell\Statements\Statements\bin\Debug\netcoreapp3.1\Statements.deps.json
+C:\Users\chris\Documents\GitHub\NutShell\Statements\Statements\bin\Debug\netcoreapp3.1\Statements.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\NutShell\Statements\Statements\bin\Debug\netcoreapp3.1\Statements.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\NutShell\Statements\Statements\bin\Debug\netcoreapp3.1\Statements.dll
+C:\Users\chris\Documents\GitHub\NutShell\Statements\Statements\bin\Debug\netcoreapp3.1\Statements.pdb
+C:\Users\chris\Documents\GitHub\NutShell\Statements\Statements\obj\Debug\netcoreapp3.1\Statements.dll
+C:\Users\chris\Documents\GitHub\NutShell\Statements\Statements\obj\Debug\netcoreapp3.1\Statements.pdb
+C:\Users\chris\Documents\GitHub\NutShell\Statements\Statements\obj\Debug\netcoreapp3.1\Statements.genruntimeconfig.cache
