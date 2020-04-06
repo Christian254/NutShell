@@ -1,0 +1,12 @@
+C:\Users\chris\Documents\GitHub\NutShell\SwitchStatement\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.exe
+C:\Users\chris\Documents\GitHub\NutShell\SwitchStatement\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.deps.json
+C:\Users\chris\Documents\GitHub\NutShell\SwitchStatement\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\NutShell\SwitchStatement\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\NutShell\SwitchStatement\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.dll
+C:\Users\chris\Documents\GitHub\NutShell\SwitchStatement\SwitchStatement\bin\Debug\netcoreapp3.1\SwitchStatement.pdb
+C:\Users\chris\Documents\GitHub\NutShell\SwitchStatement\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\SwitchStatement\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\SwitchStatement\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\NutShell\SwitchStatement\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.dll
+C:\Users\chris\Documents\GitHub\NutShell\SwitchStatement\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.pdb
+C:\Users\chris\Documents\GitHub\NutShell\SwitchStatement\SwitchStatement\obj\Debug\netcoreapp3.1\SwitchStatement.genruntimeconfig.cache

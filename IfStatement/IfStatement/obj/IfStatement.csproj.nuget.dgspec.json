@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\Statements\\Statements\\Statements.csproj": {}
+    "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\IfStatement\\IfStatement\\IfStatement.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\Statements\\Statements\\Statements.csproj": {
+    "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\IfStatement\\IfStatement\\IfStatement.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\Statements\\Statements\\Statements.csproj",
-        "projectName": "Statements",
-        "projectPath": "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\Statements\\Statements\\Statements.csproj",
+        "projectUniqueName": "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\IfStatement\\IfStatement\\IfStatement.csproj",
+        "projectName": "IfStatement",
+        "projectPath": "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\IfStatement\\IfStatement\\IfStatement.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\Statements\\Statements\\obj\\",
+        "outputPath": "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\IfStatement\\IfStatement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,12 @@
+C:\Users\chris\Documents\GitHub\NutShell\IfStatement\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.exe
+C:\Users\chris\Documents\GitHub\NutShell\IfStatement\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.deps.json
+C:\Users\chris\Documents\GitHub\NutShell\IfStatement\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\NutShell\IfStatement\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\NutShell\IfStatement\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.dll
+C:\Users\chris\Documents\GitHub\NutShell\IfStatement\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.pdb
+C:\Users\chris\Documents\GitHub\NutShell\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\NutShell\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.dll
+C:\Users\chris\Documents\GitHub\NutShell\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.pdb
+C:\Users\chris\Documents\GitHub\NutShell\IfStatement\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.genruntimeconfig.cache

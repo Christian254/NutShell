@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\Statements\\Statements\\Statements.csproj": {}
+    "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\WhileLoop\\WhileLoop\\WhileLoop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\Statements\\Statements\\Statements.csproj": {
+    "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\WhileLoop\\WhileLoop\\WhileLoop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\Statements\\Statements\\Statements.csproj",
-        "projectName": "Statements",
-        "projectPath": "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\Statements\\Statements\\Statements.csproj",
+        "projectUniqueName": "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\WhileLoop\\WhileLoop\\WhileLoop.csproj",
+        "projectName": "WhileLoop",
+        "projectPath": "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\WhileLoop\\WhileLoop\\WhileLoop.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\Statements\\Statements\\obj\\",
+        "outputPath": "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\WhileLoop\\WhileLoop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",

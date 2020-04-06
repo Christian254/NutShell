@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\Statements\\Statements\\Statements.csproj": {}
+    "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\ForLoops\\ForLoops\\ForLoops.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\Statements\\Statements\\Statements.csproj": {
+    "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\ForLoops\\ForLoops\\ForLoops.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\Statements\\Statements\\Statements.csproj",
-        "projectName": "Statements",
-        "projectPath": "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\Statements\\Statements\\Statements.csproj",
+        "projectUniqueName": "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\ForLoops\\ForLoops\\ForLoops.csproj",
+        "projectName": "ForLoops",
+        "projectPath": "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\ForLoops\\ForLoops\\ForLoops.csproj",
         "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\Statements\\Statements\\obj\\",
+        "outputPath": "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\ForLoops\\ForLoops\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",

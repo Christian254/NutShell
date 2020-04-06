@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\Statements\\Statements\\Statements.csproj",
-      "projectName": "Statements",
-      "projectPath": "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\Statements\\Statements\\Statements.csproj",
+      "projectUniqueName": "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\SwitchStatement\\SwitchStatement\\SwitchStatement.csproj",
+      "projectName": "SwitchStatement",
+      "projectPath": "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\SwitchStatement\\SwitchStatement\\SwitchStatement.csproj",
       "packagesPath": "C:\\Users\\chris\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\Statements\\Statements\\obj\\",
+      "outputPath": "C:\\Users\\chris\\Documents\\GitHub\\NutShell\\SwitchStatement\\SwitchStatement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\chris\\AppData\\Roaming\\NuGet\\NuGet.Config",
