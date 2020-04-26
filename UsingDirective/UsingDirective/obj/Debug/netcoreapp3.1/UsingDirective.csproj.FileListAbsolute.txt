@@ -1,0 +1,12 @@
+C:\Users\chris\Documents\GitHub\NutShell\UsingDirective\UsingDirective\bin\Debug\netcoreapp3.1\UsingDirective.exe
+C:\Users\chris\Documents\GitHub\NutShell\UsingDirective\UsingDirective\bin\Debug\netcoreapp3.1\UsingDirective.deps.json
+C:\Users\chris\Documents\GitHub\NutShell\UsingDirective\UsingDirective\bin\Debug\netcoreapp3.1\UsingDirective.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\NutShell\UsingDirective\UsingDirective\bin\Debug\netcoreapp3.1\UsingDirective.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\NutShell\UsingDirective\UsingDirective\bin\Debug\netcoreapp3.1\UsingDirective.dll
+C:\Users\chris\Documents\GitHub\NutShell\UsingDirective\UsingDirective\bin\Debug\netcoreapp3.1\UsingDirective.pdb
+C:\Users\chris\Documents\GitHub\NutShell\UsingDirective\UsingDirective\obj\Debug\netcoreapp3.1\UsingDirective.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\UsingDirective\UsingDirective\obj\Debug\netcoreapp3.1\UsingDirective.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\UsingDirective\UsingDirective\obj\Debug\netcoreapp3.1\UsingDirective.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\NutShell\UsingDirective\UsingDirective\obj\Debug\netcoreapp3.1\UsingDirective.dll
+C:\Users\chris\Documents\GitHub\NutShell\UsingDirective\UsingDirective\obj\Debug\netcoreapp3.1\UsingDirective.pdb
+C:\Users\chris\Documents\GitHub\NutShell\UsingDirective\UsingDirective\obj\Debug\netcoreapp3.1\UsingDirective.genruntimeconfig.cache

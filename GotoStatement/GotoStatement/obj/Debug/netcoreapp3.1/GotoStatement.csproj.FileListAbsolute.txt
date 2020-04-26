@@ -1,0 +1,12 @@
+C:\Users\chris\Documents\GitHub\NutShell\GotoStatement\GotoStatement\bin\Debug\netcoreapp3.1\GotoStatement.exe
+C:\Users\chris\Documents\GitHub\NutShell\GotoStatement\GotoStatement\bin\Debug\netcoreapp3.1\GotoStatement.deps.json
+C:\Users\chris\Documents\GitHub\NutShell\GotoStatement\GotoStatement\bin\Debug\netcoreapp3.1\GotoStatement.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\NutShell\GotoStatement\GotoStatement\bin\Debug\netcoreapp3.1\GotoStatement.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\NutShell\GotoStatement\GotoStatement\bin\Debug\netcoreapp3.1\GotoStatement.dll
+C:\Users\chris\Documents\GitHub\NutShell\GotoStatement\GotoStatement\bin\Debug\netcoreapp3.1\GotoStatement.pdb
+C:\Users\chris\Documents\GitHub\NutShell\GotoStatement\GotoStatement\obj\Debug\netcoreapp3.1\GotoStatement.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\GotoStatement\GotoStatement\obj\Debug\netcoreapp3.1\GotoStatement.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\GotoStatement\GotoStatement\obj\Debug\netcoreapp3.1\GotoStatement.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\NutShell\GotoStatement\GotoStatement\obj\Debug\netcoreapp3.1\GotoStatement.dll
+C:\Users\chris\Documents\GitHub\NutShell\GotoStatement\GotoStatement\obj\Debug\netcoreapp3.1\GotoStatement.pdb
+C:\Users\chris\Documents\GitHub\NutShell\GotoStatement\GotoStatement\obj\Debug\netcoreapp3.1\GotoStatement.genruntimeconfig.cache

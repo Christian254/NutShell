@@ -1,0 +1,12 @@
+C:\Users\chris\Documents\GitHub\NutShell\ReturnStatement\ReturnStatement\bin\Debug\netcoreapp3.1\ReturnStatement.exe
+C:\Users\chris\Documents\GitHub\NutShell\ReturnStatement\ReturnStatement\bin\Debug\netcoreapp3.1\ReturnStatement.deps.json
+C:\Users\chris\Documents\GitHub\NutShell\ReturnStatement\ReturnStatement\bin\Debug\netcoreapp3.1\ReturnStatement.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\NutShell\ReturnStatement\ReturnStatement\bin\Debug\netcoreapp3.1\ReturnStatement.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\NutShell\ReturnStatement\ReturnStatement\bin\Debug\netcoreapp3.1\ReturnStatement.dll
+C:\Users\chris\Documents\GitHub\NutShell\ReturnStatement\ReturnStatement\bin\Debug\netcoreapp3.1\ReturnStatement.pdb
+C:\Users\chris\Documents\GitHub\NutShell\ReturnStatement\ReturnStatement\obj\Debug\netcoreapp3.1\ReturnStatement.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\ReturnStatement\ReturnStatement\obj\Debug\netcoreapp3.1\ReturnStatement.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\ReturnStatement\ReturnStatement\obj\Debug\netcoreapp3.1\ReturnStatement.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\NutShell\ReturnStatement\ReturnStatement\obj\Debug\netcoreapp3.1\ReturnStatement.dll
+C:\Users\chris\Documents\GitHub\NutShell\ReturnStatement\ReturnStatement\obj\Debug\netcoreapp3.1\ReturnStatement.pdb
+C:\Users\chris\Documents\GitHub\NutShell\ReturnStatement\ReturnStatement\obj\Debug\netcoreapp3.1\ReturnStatement.genruntimeconfig.cache

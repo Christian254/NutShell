@@ -1,0 +1,12 @@
+C:\Users\chris\Documents\GitHub\NutShell\ThrowStatement\ThrowStatement\bin\Debug\netcoreapp3.1\ThrowStatement.exe
+C:\Users\chris\Documents\GitHub\NutShell\ThrowStatement\ThrowStatement\bin\Debug\netcoreapp3.1\ThrowStatement.deps.json
+C:\Users\chris\Documents\GitHub\NutShell\ThrowStatement\ThrowStatement\bin\Debug\netcoreapp3.1\ThrowStatement.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\NutShell\ThrowStatement\ThrowStatement\bin\Debug\netcoreapp3.1\ThrowStatement.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\NutShell\ThrowStatement\ThrowStatement\bin\Debug\netcoreapp3.1\ThrowStatement.dll
+C:\Users\chris\Documents\GitHub\NutShell\ThrowStatement\ThrowStatement\bin\Debug\netcoreapp3.1\ThrowStatement.pdb
+C:\Users\chris\Documents\GitHub\NutShell\ThrowStatement\ThrowStatement\obj\Debug\netcoreapp3.1\ThrowStatement.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\ThrowStatement\ThrowStatement\obj\Debug\netcoreapp3.1\ThrowStatement.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\ThrowStatement\ThrowStatement\obj\Debug\netcoreapp3.1\ThrowStatement.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\NutShell\ThrowStatement\ThrowStatement\obj\Debug\netcoreapp3.1\ThrowStatement.dll
+C:\Users\chris\Documents\GitHub\NutShell\ThrowStatement\ThrowStatement\obj\Debug\netcoreapp3.1\ThrowStatement.pdb
+C:\Users\chris\Documents\GitHub\NutShell\ThrowStatement\ThrowStatement\obj\Debug\netcoreapp3.1\ThrowStatement.genruntimeconfig.cache

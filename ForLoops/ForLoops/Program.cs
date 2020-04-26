@@ -26,6 +26,14 @@ namespace ForLoops
             enumerable.*/
             foreach (char c in "beer") // c is the iteration variable
                 Console.WriteLine(c);
+            /*
+             Jump Statements
+            The C# jump statements are break, continue, goto, return, and throw.
+             A jump out of a try block always executes the try’s
+            finally block before reaching the target of the jump.
+            A jump cannot be made from the inside to the outside of
+            a finally block (except via throw).
+             */
         }
     }
 }

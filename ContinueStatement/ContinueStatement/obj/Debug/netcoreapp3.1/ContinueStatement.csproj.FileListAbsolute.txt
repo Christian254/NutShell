@@ -1,0 +1,12 @@
+C:\Users\chris\Documents\GitHub\NutShell\ContinueStatement\ContinueStatement\bin\Debug\netcoreapp3.1\ContinueStatement.exe
+C:\Users\chris\Documents\GitHub\NutShell\ContinueStatement\ContinueStatement\bin\Debug\netcoreapp3.1\ContinueStatement.deps.json
+C:\Users\chris\Documents\GitHub\NutShell\ContinueStatement\ContinueStatement\bin\Debug\netcoreapp3.1\ContinueStatement.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\NutShell\ContinueStatement\ContinueStatement\bin\Debug\netcoreapp3.1\ContinueStatement.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\NutShell\ContinueStatement\ContinueStatement\bin\Debug\netcoreapp3.1\ContinueStatement.dll
+C:\Users\chris\Documents\GitHub\NutShell\ContinueStatement\ContinueStatement\bin\Debug\netcoreapp3.1\ContinueStatement.pdb
+C:\Users\chris\Documents\GitHub\NutShell\ContinueStatement\ContinueStatement\obj\Debug\netcoreapp3.1\ContinueStatement.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\ContinueStatement\ContinueStatement\obj\Debug\netcoreapp3.1\ContinueStatement.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\ContinueStatement\ContinueStatement\obj\Debug\netcoreapp3.1\ContinueStatement.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\NutShell\ContinueStatement\ContinueStatement\obj\Debug\netcoreapp3.1\ContinueStatement.dll
+C:\Users\chris\Documents\GitHub\NutShell\ContinueStatement\ContinueStatement\obj\Debug\netcoreapp3.1\ContinueStatement.pdb
+C:\Users\chris\Documents\GitHub\NutShell\ContinueStatement\ContinueStatement\obj\Debug\netcoreapp3.1\ContinueStatement.genruntimeconfig.cache

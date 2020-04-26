@@ -1,0 +1,13 @@
+C:\Users\chris\Documents\GitHub\NutShell\NameSpaces\NameSpaces\bin\Debug\netcoreapp3.1\NameSpaces.exe
+C:\Users\chris\Documents\GitHub\NutShell\NameSpaces\NameSpaces\bin\Debug\netcoreapp3.1\NameSpaces.deps.json
+C:\Users\chris\Documents\GitHub\NutShell\NameSpaces\NameSpaces\bin\Debug\netcoreapp3.1\NameSpaces.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\NutShell\NameSpaces\NameSpaces\bin\Debug\netcoreapp3.1\NameSpaces.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\NutShell\NameSpaces\NameSpaces\bin\Debug\netcoreapp3.1\NameSpaces.dll
+C:\Users\chris\Documents\GitHub\NutShell\NameSpaces\NameSpaces\bin\Debug\netcoreapp3.1\NameSpaces.pdb
+C:\Users\chris\Documents\GitHub\NutShell\NameSpaces\NameSpaces\obj\Debug\netcoreapp3.1\NameSpaces.csprojAssemblyReference.cache
+C:\Users\chris\Documents\GitHub\NutShell\NameSpaces\NameSpaces\obj\Debug\netcoreapp3.1\NameSpaces.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\NameSpaces\NameSpaces\obj\Debug\netcoreapp3.1\NameSpaces.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\NameSpaces\NameSpaces\obj\Debug\netcoreapp3.1\NameSpaces.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\NutShell\NameSpaces\NameSpaces\obj\Debug\netcoreapp3.1\NameSpaces.dll
+C:\Users\chris\Documents\GitHub\NutShell\NameSpaces\NameSpaces\obj\Debug\netcoreapp3.1\NameSpaces.pdb
+C:\Users\chris\Documents\GitHub\NutShell\NameSpaces\NameSpaces\obj\Debug\netcoreapp3.1\NameSpaces.genruntimeconfig.cache

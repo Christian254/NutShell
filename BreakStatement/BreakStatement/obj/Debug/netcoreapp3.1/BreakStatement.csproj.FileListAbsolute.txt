@@ -1,0 +1,12 @@
+C:\Users\chris\Documents\GitHub\NutShell\BreakStatement\BreakStatement\bin\Debug\netcoreapp3.1\BreakStatement.exe
+C:\Users\chris\Documents\GitHub\NutShell\BreakStatement\BreakStatement\bin\Debug\netcoreapp3.1\BreakStatement.deps.json
+C:\Users\chris\Documents\GitHub\NutShell\BreakStatement\BreakStatement\bin\Debug\netcoreapp3.1\BreakStatement.runtimeconfig.json
+C:\Users\chris\Documents\GitHub\NutShell\BreakStatement\BreakStatement\bin\Debug\netcoreapp3.1\BreakStatement.runtimeconfig.dev.json
+C:\Users\chris\Documents\GitHub\NutShell\BreakStatement\BreakStatement\bin\Debug\netcoreapp3.1\BreakStatement.dll
+C:\Users\chris\Documents\GitHub\NutShell\BreakStatement\BreakStatement\bin\Debug\netcoreapp3.1\BreakStatement.pdb
+C:\Users\chris\Documents\GitHub\NutShell\BreakStatement\BreakStatement\obj\Debug\netcoreapp3.1\BreakStatement.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\BreakStatement\BreakStatement\obj\Debug\netcoreapp3.1\BreakStatement.AssemblyInfoInputs.cache
+C:\Users\chris\Documents\GitHub\NutShell\BreakStatement\BreakStatement\obj\Debug\netcoreapp3.1\BreakStatement.AssemblyInfo.cs
+C:\Users\chris\Documents\GitHub\NutShell\BreakStatement\BreakStatement\obj\Debug\netcoreapp3.1\BreakStatement.dll
+C:\Users\chris\Documents\GitHub\NutShell\BreakStatement\BreakStatement\obj\Debug\netcoreapp3.1\BreakStatement.pdb
+C:\Users\chris\Documents\GitHub\NutShell\BreakStatement\BreakStatement\obj\Debug\netcoreapp3.1\BreakStatement.genruntimeconfig.cache
